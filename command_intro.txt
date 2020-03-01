@@ -1,0 +1,24 @@
+mkdir
+ls
+ls  -la
+cd
+cd --( go bACK to pervious folder)
+pwd
+clear
+cd ~ (go to home directory /c/User/
+
+cat <file name> to see what is inside the file
+nano <file name.extension> to create/ edit a file of any type and add/edit any content
+
+git satus ( show the satus of ur git repo)
+git add( add all the changes unstaged changes....>satged changes
+
+git commit -m "<commit_message>"
+git config user name "someone"
+git config user email " someoen@email.com"
+
+git commit -m"some init msg"
+git status
+git push (login git hub account)
+
+git --help
